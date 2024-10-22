@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Carolina Caetano
 
 ## 🚀 About Me
-I am a **Data Scientist** and **Biologist** with expertise in **Machine Learning**, **Bioinformatics**, **Data Analysis**, and **Ecology**. I enjoy solving complex problems and applying my analytical skills to various scientific fields.
+I am a **Data Scientist** and **Biologist** with expertise in **Machine Learning**, **Bioinformatics**, **Data Analysis**, **Evolution**, and **Ecology**. I enjoy solving complex problems and applying my analytical skills to various scientific fields.
 
 - 🔬 **Academic Background**: PhD in Evolutionary Biology, Master in Ecology, MBA em Data Science e Analytics.
 - 💻 **Technical Expertise**: I work extensively with **Python**, **R**, and **Jupyter Notebooks** to build models, analyze data, and create visualizations.
