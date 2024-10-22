@@ -5,7 +5,7 @@ I am a **Data Scientist** and **Biologist** with expertise in **Machine Learning
 
 - 🔬 **Academic Background**: PhD Evolutionary Biology, Master in Ecology.
 - 💻 **Technical Expertise**: I work extensively with **Python**, **R**, and **Jupyter Notebooks** to build models, analyze data, and create visualizations.
-- 🔍 **Interests**: My interests include **machine learning**, **environmental data**, and  **genomics**.
+- 🔍 **Interests**: My interests include **machine learning**, **environmental data**, **animal behavior**, **animal morphology**, and **genomics**.
 
 ## 🛠 Skills
 - **Languages**: Python, R, SQL
