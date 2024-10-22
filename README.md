@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Carolina de Almeida Caetano
+# 👋 Hi, I'm Carolina Caetano
 
 ## 🚀 About Me
 I am a **Data Scientist** and **Biologist** with expertise in **Machine Learning**, **Bioinformatics**, **Data Analysis**, and **Ecology**. I enjoy solving complex problems and applying my analytical skills to various scientific fields.
