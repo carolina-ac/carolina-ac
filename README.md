@@ -11,7 +11,7 @@ I am a **Data Scientist** and **Biologist** with expertise in **Machine Learning
 - **Languages**: Python, R, SQL
 - **Libraries & Tools**: Pandas, Scikit-learn, TensorFlow, Jupyter, Matplotlib, Seaborn
 - **Databases**: MySQL, Redcap
-- **Other**: Docker, API development, Git
+- **Other**: Docker, Git
 
 ## 📈 Projects
 - **Comparing API and CSV Datasets**: [Link to Repo](https://github.com/carolina-ac/comparing_api_and_csv_datasets)
