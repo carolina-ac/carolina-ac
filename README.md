@@ -27,4 +27,6 @@ I am a **Data Scientist** and **Biologist** with expertise in **Machine Learning
 - **GitHub**: [https://github.com/carolina-ac](https://github.com/carolina-ac)
 
 ## 🧩 Fun fact
-I love blending **data science** with **biology**, and I'm always looking for new ways to integrate computational methods into ecological and evolutionary studies.
+I love practicing both **capoeira** and **dance**—it's a mix of rhythm, agility, and culture that keeps me energized and inspired!
+
+
