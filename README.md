@@ -28,7 +28,6 @@ I am a **Data Scientist** and **Biologist** with expertise in **Machine Learning
 - **LinkedIn**: [Carolina on LinkedIn](https://www.linkedin.com/in/carolina-caetano-079568156/)
 - **GitHub**: [https://github.com/carolina-ac](https://github.com/carolina-ac)
 
-## 🧩 Fun fact
-I love practicing both **capoeira** and **dance**—it's a mix of rhythm, agility, and culture that keeps me energized and inspired!
+
 
 
