@@ -17,7 +17,7 @@ I am a **Data Scientist** and **Biologist** with expertise in **Machine Learning
 - **Whole Genome Sequencing Pipeline using Docker**: A fully containerized pipeline for processing whole genome sequencing data, including quality control (FastQC), adapter trimming (Trimmomatic), genome assembly (SPAdes), and quality assessment (QUAST). [Link to Repo](https://github.com/carolina-ac/wgs_dockerfile)
 - **Docker environment**: A custom docker based on rocker/r-ver:4.1.2 to resolve R package conflicts, including essential system dependencies, CRAN, and Bioconductor packages:  [Link to Repo](https://github.com/carolina-ac/docker_r_analysis)
 - **Comparing API and CSV Datasets**: [Link to Repo](https://github.com/carolina-ac/comparing_api_and_csv_datasets)
-- **Analysing bee eyes morphology**: [Link to Repo](https://github.com/carolina-ac/bee_eyes).
+- **Analyzing Bee Eye Morphology Using GAMLSS models, Clustering, and PCA**: [Link to Repo](https://github.com/carolina-ac/bee_eyes).
   
 ## 🌱 I’m currently learning:
 - Advanced Natural Language Processing (NLP)
